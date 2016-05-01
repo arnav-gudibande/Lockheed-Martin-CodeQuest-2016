@@ -1,0 +1,7 @@
+2
+2
+Hello World
+CodeQuest Rocks!
+2
+If I were you, I would use this problem
+As a template for the others.
